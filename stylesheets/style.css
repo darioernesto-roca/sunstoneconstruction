@@ -1525,3 +1525,9 @@ body.bottom-nav header {
   background-size: cover;
   filter: opacity(0.6);
 }
+
+.dark-slide a:hover {
+  color: #fff!important;
+  border-color: #fff;
+  border: solid;
+}
