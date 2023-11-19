@@ -1526,7 +1526,8 @@ body.bottom-nav header {
   filter: opacity(0.6);
 }
 
-.dark-slide a:hover {
+.dark-slide a:hover,
+.btn:hover {
   color: #fff!important;
   border-color: #fff;
   border: solid;
